@@ -8,8 +8,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World..
+          Welcome to my first React Application
         </p>
+        <p>Kamlesh Patel</p>
+        <p>Created on 21-Oct-2019</p>
+        <p/>
+        <p> This project is to depmonstrate AWS Amplify CI nd CD</p>
         <a
           className="App-link"
           href="https://reactjs.org"
