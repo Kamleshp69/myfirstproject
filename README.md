@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Step by step Instructions: https://aws.amazon.com/getting-started/tutorials/deploy-react-app-cicd-amplify/
+
 ## Available Scripts
 
 In the project directory, you can run:
